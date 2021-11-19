@@ -1,1 +1,1 @@
-# Project-32-My-Quiz-Game-1
+# project-template-myquiz
